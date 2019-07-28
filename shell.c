@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
@@ -75,7 +74,7 @@ int main(int argc,char *argv[])
 //打印提示符
 void print_first()
 {
-    printf("\033[37;1mmatery@matery-SHELL:~$ \033[0m");
+    printf("cosineta@cosineta-PC:~$");
 }
 
 
